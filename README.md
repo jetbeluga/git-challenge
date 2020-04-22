@@ -21,7 +21,7 @@ For each task create a new branch and
 ## Sprint 1
 
 - [ ] Change the title of the page to Git Summary
-- [ ] Fix the typo in the **Configure** heading
+- [x] Fix the typo in the **Configure** heading
 - [ ] Add the commit section from <https://gist.github.com/yodra/c1c95f8c2cd94811d988d97640a5da45#file-git-command-summary-md>
 
 ## Sprint 2
